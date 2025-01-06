@@ -8,25 +8,6 @@ import scipy.stats as stats
 from scipy.stats import chi2_contingency
 from scipy.stats import norm
 
-# Custom styling 
-st.markdown("""
-    <style>
-    .stApp {background-color: white}
-    .main > div {padding: 2rem}
-    .block-container {padding-top: 1rem}
-    h1, h2, h3 {background-color: #FFB81C; padding: 0.5rem; color: black}
-    .stSidebar {background-color: #f5f5f5}
-    </style>
-    """, unsafe_allow_html=True)
-
-# Color schemes
-colors_pie = ['#FFB81C', '#000000', '#E31837', '#4CAF50']
-colors_main = {
-    'primary': '#FFB81C',
-    'secondary': '#000000',
-    'negative': '#E31837',
-    'positive': '#4CAF50'
-}
 
 def calculate_chi_square_analysis(df, var1, var2):
     """
