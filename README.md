@@ -127,4 +127,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 - Plotly for interactive visualizations
 
 ## Contact
-For questions or support, please [open an issue](https://github.com/yourusername/human-trafficking-analysis/issues) on this repository.
+For questions or support, please [open an issue](https://github.com/cosimodamicis/human_trafficking/issues) on this repository.
