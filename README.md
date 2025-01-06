@@ -1,7 +1,9 @@
 # Human Trafficking Analysis Dashboard
 
 ## Overview
-This interactive dashboard analyzes patterns in human trafficking using the CTDC synthetic dataset. Built with Streamlit, it provides comprehensive visualizations and statistical analysis tools to understand trafficking patterns while protecting victim privacy through the use of synthetic data.
+This interactive dashboard analyzes patterns in human trafficking using the CTDC synthetic dataset downloadable from https://www.ctdatacollaborative.org/dataset/global-victim-perpetrator-synthetic-dataset-and-resources/resource/07e89e2d-6e9a-4c88-a29c.
+
+Built with Streamlit, it provides comprehensive visualizations and statistical analysis tools to understand trafficking patterns while protecting victim privacy through the use of synthetic data.
 
 ## Features
 
@@ -44,7 +46,7 @@ This interactive dashboard analyzes patterns in human trafficking using the CTDC
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/human-trafficking-analysis.git
+git clone https://github.com/cosimodamicis/human_trafficking.git
 cd human-trafficking-analysis
 ```
 
