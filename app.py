@@ -8,7 +8,7 @@ import scipy.stats as stats
 from scipy.stats import chi2_contingency
 from scipy.stats import norm
 
-# Custom styling
+# Custom styling 
 st.markdown("""
     <style>
     .stApp {background-color: white}
